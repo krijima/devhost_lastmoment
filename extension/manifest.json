@@ -1,0 +1,1 @@
+{"manifest_version":3,"name":"Shadow — Your consumer copilot","version":"0.1.0","description":"Spot potential dark patterns, guide consumer choices, and keep a local evidence trail.","permissions":["activeTab","scripting"],"action":{"default_title":"Enable Shadow on this page"},"background":{"service_worker":"background.js"}}
